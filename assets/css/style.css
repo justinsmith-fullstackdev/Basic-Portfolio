@@ -1,0 +1,180 @@
+.mainhead{
+    background-color: #ffffff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: #777777;
+    margin-left: 14.125%;
+    margin-right: 14.125%;
+    overflow: hidden;
+}
+
+
+.mainhead a {
+    color: #777777;
+}
+
+.head1{
+    float: left;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 24px;
+    padding: 24px;
+}
+
+
+.head2{
+    margin-right: 10%;    
+    font-size: 18px;
+}
+
+h2:link {
+    color: black
+}
+
+
+.head2a{ 
+    float: right;
+    padding: 14px 5px; 
+    border-right-color: black;
+    border-right-width: 50px;
+    
+}
+.head2b{
+    float: right;
+    padding: 14px 5px;  
+  
+}
+.head2c{
+    float: right;
+    padding: 14px 10px; 
+    
+}
+
+
+.head3{
+    border-style: solid;
+    border-left-width: 192px;
+    border-right-width: 192px;
+    border-top-width: 40px;
+    border-bottom-width: 300px;
+    border-color: #dddddd;
+    background-color:#ffffff;
+    padding: 14px 10px;
+    padding-bottom: 3cm;
+}
+
+.head3:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.image {
+    height: 150px;
+    width: 25%;
+    float: left;
+}
+
+.head3a {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    padding: 24px;
+    border-bottom-style: solid;
+    border-bottom-width: thick;
+    border-bottom-color: #dddddd;
+    overflow: hidden;
+    padding-bottom: 15px;
+}
+
+.footer{
+    text-align: center;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaa5;
+    background-color: #666666;
+    padding-top: 1cm;
+}
+
+.line {
+    padding: 0px;
+}
+
+.name{
+    display: block;
+    border: 0;
+    border-color: #dddddd;
+}
+
+label{
+    display: block;
+    border-color: #dddddd;
+
+}
+input, textarea {
+    display: block;
+    width:  100%;
+  
+}
+
+#submit{
+border: 0;
+background: #4aaaa5;
+padding: .25rem; 
+margin: 1rem 0;
+width: 15%;
+color: white; 
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#message {
+
+        padding-bottom: 20%;
+
+}
+
+.image1{
+    height: 150px;
+    width: 25%;
+    float: left;
+    margin-right: 1cm;
+    margin-bottom: 1cm;
+}
+
+.image2{
+    height: 150px;
+    width: 25%;
+    float: left;
+   
+}
+
+.image3{
+    height: 150px;
+    width: 25%;
+    float: left;
+    margin-right: 1cm;
+    margin-bottom: 1cm;
+    clear: both;
+}
+
+.image4{
+    height: 150px;
+    width: 25%;
+    float: left;
+    margin-right: 1cm;
+    margin-bottom: 1cm;
+}
+
+.image5{
+    height: 150px;
+    width: 25%;
+    float: left;
+    clear: both;
+}
+
+
