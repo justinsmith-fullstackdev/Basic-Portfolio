@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .mainhead{
     background-color: #ffffff;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -178,3 +179,13 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 
+=======
+.head1{
+    float: left
+}
+
+.head2 {
+    float: right;
+}
+
+>>>>>>> a04f7619199a342f313ef91c7f7455cfc71e4a70
