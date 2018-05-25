@@ -1,12 +1,10 @@
 .mainhead{
     background-color: #ffffff;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    border-bottom-style: solid;
-    border-bottom-width: thin;
-    border-bottom-color: #777777;
     margin-left: 14.125%;
     margin-right: 14.125%;
     overflow: hidden;
+    padding-bottom: 0px;
 }
 
 
@@ -35,22 +33,20 @@ h2:link {
 
 .head2a{ 
     float: right;
-    padding: 14px 5px; 
+    padding: 24px; 
     border-right-color: black;
     border-right-width: 50px;
+    padding: 24px 5px; 
     
 }
 .head2b{
     float: right;
-    padding: 14px 5px;  
-  
+    padding: 24px 5px;   
 }
 .head2c{
     float: right;
-    padding: 14px 10px; 
-    
+    padding: 24px 5px;  
 }
-
 
 .head3{
     border-style: solid;
@@ -177,4 +173,25 @@ font-family: Arial, Helvetica, sans-serif;
     clear: both;
 }
 
+.headerline{
+    border-top-style: solid;
+    border-top-width: thin;
+    border-color: #777777;
+}
 
+.container1{
+    position: relative;
+}
+
+.container2{
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    top: 100px;
+    background: #4aaaa5;
+    padding: 10px 30px;
+    width: 25%;
+    text-align: center;
+}
